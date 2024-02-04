@@ -1,4 +1,4 @@
-<img style="margin-left: auto; margin-right: auto;" src="_Images_/MauiDayLogo.png" width="400" />
+<img style="align: center; width: 400px;" src="_Images_/mauidaylogo.png" />
  
 <br/>
        
@@ -92,7 +92,6 @@ Learn through our own voting system how we can combine technology such as Signal
 In the past, powerful mvvm frameworks were an essential part of nearly all xamarin applications. But these might be a thing of the past, because nowadays, one toolkit can solve most of our mvvm needs.
 
 <br/>
-<br/>
-------
+<hr/>
 
 If you wish to rectify or complement any information send a message to [@ZeProgFactory](https://twitter.com/ZeProgFactory) or make a pull request ;-)
