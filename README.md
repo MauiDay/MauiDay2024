@@ -1,4 +1,4 @@
-<img style="align: center; width: 400px;" src="_Images_/mauidaylogo.png" />
+<img style="align: center; width: 400px;" src="_Sessions_/mauidaylogo.png" />
  
 <br/>
        
@@ -7,6 +7,7 @@ All slides and relevant things from .NET MAUI Day 2024. The event was held on Fe
 
 https://mauiday.net/ 
 
+There were no video recordings of the event.
 
 ## Sessions
 The sessions are in chronological order.
@@ -58,6 +59,8 @@ We'll see how the sharpnado's TaskLoaderView (https://github.com/roubachof/Sharp
 
 Through all the presentation a PoC will be showcased to demonstrate those principles.
 
+[(slides)](https://github.com/XamarinExpertDay/MauiDay2024/blob/main/_Sessions_/JeanMarieAlfonsi/mvvm.flux/mvvm-flux.pdf) 
+[(files)](https://github.com/XamarinExpertDay/MauiDay2024/blob/main/_Sessions_/JeanMarieAlfonsi/mvvm.flux/) 
 [(blog)](https://www.sharpnado.com/taskloaderview-2-0-lets-burn-isbusy-true/)
 
 <br/>
@@ -83,6 +86,8 @@ Join me in learning about how we can build video games with .NET MAUI in the for
 
 Learn through our own voting system how we can combine technology such as SignalR to provide real time multi-player support into our .NET MAUI based games as well as many other cool techniques to really make our games or applications feel alive.
 
+[(repo)](https://github.com/bijington/orbit) 
+
 <br/>
 
 ### CommunityToolkit.Mvvm is the only mvvm framework you’ll need  
@@ -90,6 +95,11 @@ Learn through our own voting system how we can combine technology such as Signal
 ***Software engineer - Xamarin user since 2016, these days mostly interested in ASP.NET Core, Xamarin.Forms, Blazor and video games!***
 
 In the past, powerful mvvm frameworks were an essential part of nearly all xamarin applications. But these might be a thing of the past, because nowadays, one toolkit can solve most of our mvvm needs.
+
+[(Samples)](https://github.com/krdmllr/CommunityToolkit.Mvvm.Sample)
+[(Toolkit Source)](https://github.com/CommunityToolkit/dotnet/tree/main/src/CommunityToolkit.Mvvm)
+[(Toolkit Documentation)](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)
+
 
 <br/>
 <hr/>
