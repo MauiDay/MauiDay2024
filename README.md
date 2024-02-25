@@ -86,7 +86,9 @@ Join me in learning about how we can build video games with .NET MAUI in the for
 
 Learn through our own voting system how we can combine technology such as SignalR to provide real time multi-player support into our .NET MAUI based games as well as many other cool techniques to really make our games or applications feel alive.
 
-[(repo)](https://github.com/bijington/orbit) 
+[(Slides)](https://github.com/bijington/orbit/tree/main/games/ChooseYourOwnAdventure)
+[(Game engine)](https://github.com/bijington/orbit)
+[(Blog)](https://blog.bijington.com/2023/10/06/choose-your-own-adventure.html)
 
 <br/>
 
