@@ -108,4 +108,4 @@ In the past, powerful mvvm frameworks were an essential part of nearly all xamar
 <br/>
 <hr/>
 <p align="center">The .NET MAUI day is in no way endorsed or supported by Microsoft and is not a official Microsoft event.</p>
-<p align="center">If you wish to rectify or complement any information send a message to [@ZeProgFactory](https://twitter.com/ZeProgFactory) or make a pull request ;-)</p>
+<p align="center">If you wish to rectify or complement any information send a message to <a href="https://twitter.com/ZeProgFactory">@ZeProgFactory</a> or make a pull request ;-)</p>
