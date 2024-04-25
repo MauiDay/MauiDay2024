@@ -72,6 +72,8 @@ Mark Allibone serves as a Technical Lead at Rey Technology and a Microsoft MVP. 
 
 Model View Update (MVU) is a UI architecture pattern that has gained popularity lately. Every C# developer can write MVU-oriented .NET MAUI apps. So let's look at how MVU stacks up to the well-known Model View ViewModel (MVVM) pattern. And, of course, we will want to see how MVU holds up when writing apps for the real word.
 
+[(slides)](https://github.com/XamarinExpertDay/MauiDay2024/blob/main/_Sessions_/MarkAllibone/202402_MvuWho.pdf) 
+[(demos)](https://github.com/XamarinExpertDay/MauiDay2024/blob/main/_Sessions_/MarkAllibone/Demos) 
 [(blog)](https://mallibone.com/) 
 
 <br/>
@@ -86,7 +88,9 @@ Join me in learning about how we can build video games with .NET MAUI in the for
 
 Learn through our own voting system how we can combine technology such as SignalR to provide real time multi-player support into our .NET MAUI based games as well as many other cool techniques to really make our games or applications feel alive.
 
-[(repo)](https://github.com/bijington/orbit) 
+[(slides)](https://github.com/bijington/orbit/tree/main/games/ChooseYourOwnAdventure)
+[(game engine)](https://github.com/bijington/orbit)
+[(blog)](https://blog.bijington.com/2023/10/06/choose-your-own-adventure.html)
 
 <br/>
 
@@ -96,12 +100,12 @@ Learn through our own voting system how we can combine technology such as Signal
 
 In the past, powerful mvvm frameworks were an essential part of nearly all xamarin applications. But these might be a thing of the past, because nowadays, one toolkit can solve most of our mvvm needs.
 
-[(Samples)](https://github.com/krdmllr/CommunityToolkit.Mvvm.Sample)
-[(Toolkit Source)](https://github.com/CommunityToolkit/dotnet/tree/main/src/CommunityToolkit.Mvvm)
-[(Toolkit Documentation)](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)
+[(samples)](https://github.com/krdmllr/CommunityToolkit.Mvvm.Sample)
+[(toolkit source)](https://github.com/CommunityToolkit/dotnet/tree/main/src/CommunityToolkit.Mvvm)
+[(toolkit documentation)](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)
 
 
 <br/>
 <hr/>
-
-If you wish to rectify or complement any information send a message to [@ZeProgFactory](https://twitter.com/ZeProgFactory) or make a pull request ;-)
+<p align="center">The .NET MAUI day is in no way endorsed or supported by Microsoft and is not a official Microsoft event.</p>
+<p align="center">If you wish to rectify or complement any information send a message to <a href="https://twitter.com/ZeProgFactory">@ZeProgFactory</a> or make a pull request ;-)</p>
